@@ -5,3 +5,6 @@ def summ(a: int, b: int) -> int:
 if __name__ == "__main__":
     print("Hello world")
     print(summ(3, 4))
+
+
+print("Halo emae")
